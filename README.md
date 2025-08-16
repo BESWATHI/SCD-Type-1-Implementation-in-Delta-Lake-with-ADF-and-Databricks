@@ -1,0 +1,1 @@
+# SCD-Type-1-Implementation-in-Delta-Lake-with-ADF-and-Databricks
